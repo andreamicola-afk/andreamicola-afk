@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea Micola Azwir</h1>
-<h3 align="center">Software Engineer @ <a href="https://github.com/kurosim-org">Kurosim</a></h3>
+<h3 align="center">Junior Frontend Engineer @ <a href="https://github.com/kurosim-org">Kurosim</a></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building%20things%20for%20the%20web;Fixing%20bugs%20one%20commit%20at%20a%20time;Always%20learning%20something%20new&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
